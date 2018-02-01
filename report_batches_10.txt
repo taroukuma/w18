@@ -1,0 +1,12 @@
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+0.1223
+0.3569
+0.5487
+0.6302
+0.6873
+0.716
+0.7445
+0.7602
